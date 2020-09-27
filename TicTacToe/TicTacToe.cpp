@@ -25,8 +25,8 @@ int main()
 	{
 		board();
 
-		if (player==3) {
-			player--;
+		if (player==3) { // at the and of the code i multiply player by 1, and to hinder that player becomes 3 or more i take and -1 and -1 so that it becomes 
+			player--;    // 1 when it should have become 3.
 			player--;
 		}
 		int choice;
@@ -76,7 +76,7 @@ int main()
 
 
 
-	} while (y == -1);
+	} while (y == -1); // this whole segment gets done until y is something else then -1. y only changes when we get e new return value from checkwin()
 	board();
 	player--;
 	if (y == 1) {
@@ -127,7 +127,7 @@ int checkwin() {
 	}
 	else {
 		return -1;
-	}
+	} // this is the checkwin(). after each input the code checks for victory or draws, then sends a return value back to y
 }
 
 
@@ -135,7 +135,7 @@ void board() {
 
 
 
-	system("cls");
+	system("cls"); // i clean the program so that we dont get more than one board at a time.
 
 
 	std::cout << "  |  " << number[1] << "  |  " << number[2] << "  |  " << number[3] << "  |\n\n";
