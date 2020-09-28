@@ -1,0 +1,19 @@
+﻿'TicTacToe.exe' (Win32): Loaded 'C:\Users\sands\source\repos\TicTacToe\Debug\TicTacToe.exe'. Symbols loaded.
+'TicTacToe.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'TicTacToe.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'TicTacToe.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'TicTacToe.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'TicTacToe.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'TicTacToe.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x20e4 has exited with code 0 (0x0).
+'TicTacToe.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'TicTacToe.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'TicTacToe.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'TicTacToe.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'TicTacToe.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'TicTacToe.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'TicTacToe.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+The thread 0x950 has exited with code 0 (0x0).
+The thread 0x3f24 has exited with code 0 (0x0).
+The thread 0x3990 has exited with code 0 (0x0).
+The program '[2824] TicTacToe.exe' has exited with code 0 (0x0).
